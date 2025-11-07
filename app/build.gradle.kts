@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.defendx"
+    namespace = "com.example.royaltextile"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.defendx"
+        applicationId = "com.example.royaltextile"
         minSdk = 29
         targetSdk = 34
         versionCode = 1
